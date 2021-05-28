@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const fs = require("fs");
 let inputarr=process.argv.slice(2);
 let options=[], files=[];
